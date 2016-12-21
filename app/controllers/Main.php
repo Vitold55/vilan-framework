@@ -1,9 +1,11 @@
 <?php
 
-class Main {
+namespace app\controllers;
+
+class Main extends App {
 
     public function indexAction() {
-        echo "Main::index()";
+
     }
 
 }
