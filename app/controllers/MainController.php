@@ -2,7 +2,7 @@
 
 namespace app\controllers;
 
-class Main extends App {
+class MainController extends AppController {
 
     // If we want use one layout to all actions
 //    public $layout = 'main';
